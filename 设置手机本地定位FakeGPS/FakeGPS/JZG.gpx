@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx version="1.1"
+     creator="GMapToGPX 6.4j - http://www.elsewhere.org/GMapToGPX/"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+      <wpt lat="31.2598800425" lon="120.7333302498">
+         <name>suzhou</name>
+         <cmt>公司</cmt>
+         <desc>公司</desc>
+      </wpt>
+</gpx>
+
